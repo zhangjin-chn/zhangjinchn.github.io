@@ -1,8 +1,8 @@
 ---
 layout:     post
-title:      "Data Classification based on SVM"
-subtitle:   "Kernel function for nonlinear classification"
-date:       2019-02-03 15:05:34
+title:      "欢迎光临我的博客"
+subtitle:   "我的第一篇博客"
+date:       2019-02-03 16:06:59
 author:     "ZHANG Jin"
 header-img: "img/hhh.jpg"
 tags:
