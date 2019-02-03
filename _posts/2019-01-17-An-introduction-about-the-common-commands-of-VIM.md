@@ -3,7 +3,7 @@ layout:     post
 title:      "VIM常用命令介绍"
 subtitle:   "Make programming more efficient."
 date:       2019-1-17 00:19:46
-author:     "ZHANG Tao"
+author:     "ZHANG jin"
 header-img: "img/vim.jpeg"
 tags:
 - vim

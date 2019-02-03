@@ -1,6 +1,6 @@
-# ZHANGTao's Blog
+# ZHANG Jin's Blog
 
-<p> This is my blog <a href="https://taozhang.ink" target="_blank"> ZhangTao's Blog </a>. I hope I can record some inspirations and ideas in learning artificial intelligence and share with you.</p>
+<p> This is my blog <a href="https://zhangjin.ink" target="_blank"> Zhangjin's Blog </a>. I hope I can record some inspirations and ideas in learning artificial intelligence and share with you.</p>
 
 It is powered by [Hux Blog](http://huangxuan.me/) . Thank him very much for his [Repository](https://github.com/Huxpro/huxpro.github.io), which has provided me with great help and save a lot of time.
 
