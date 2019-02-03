@@ -1,37 +1,23 @@
-## Welcome to GitHub Pages
+# ZHANGTao's Blog
 
-You can use the [editor on GitHub](https://github.com/zhangjinchn/zhangjinchn.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+<p> This is my blog <a href="https://taozhang.ink" target="_blank"> ZhangTao's Blog </a>. I hope I can record some inspirations and ideas in learning artificial intelligence and share with you.</p>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+It is powered by [Hux Blog](http://huangxuan.me/) . Thank him very much for his [Repository](https://github.com/Huxpro/huxpro.github.io), which has provided me with great help and save a lot of time.
 
-### Markdown
+### Update Log:
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+2019-01-17：新增百度统计
 
-```markdown
-Syntax highlighted code block
+2019-01-17：新增网页阅读量统计[3,4]
 
-# Header 1
-## Header 2
-### Header 3
+2018-11-05：博客上线[1,2]
 
-- Bulleted
-- List
+### reference:
 
-1. Numbered
-2. List
+[1]:[Github page：Hux Blog](http://huangxuan.me/) 
 
-**Bold** and _Italic_ and `Code` text
+[2]:[huxpro githhub](https://github.com/Huxpro/huxpro.github.io)
 
-[Link](url) and ![Image](src)
-```
+[3]:[Github page：jinyb's github page](https://github.com/jinyb09017/jinyb09017.github.io)
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/zhangjinchn/zhangjinchn.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+[4]:[简书：jekyll Github Pages 博客搭建 并实现评论 阅读量 以及分类功能](https://www.jianshu.com/p/552f6271e6f6)
